@@ -3,12 +3,12 @@ I am actively learning and applying Machine Learning algorithms to solve real-wo
 
 Through hands-on projects, I aim to deepen my understanding of:
 
-Data preprocessing and feature engineering
+     •  Data preprocessing and feature engineering
 
-Model selection and evaluation
+     •  Model selection and evaluation
 
-Supervised and unsupervised learning algorithms
+     •  Supervised and unsupervised learning algorithms
 
-Real-world applications like fraud detection, recommendation systems, and predictive analytics
+     •  Real-world applications like fraud detection, recommendation systems, and predictive analytics
 
 I believe in learning by doing and continuously improving my skills through projects and experimentation.
