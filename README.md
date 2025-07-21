@@ -1,4 +1,4 @@
-# Machine Learning Algorithms
+j# Machine Learning Algorithms
 I am actively learning and applying Machine Learning algorithms to solve real-world problems. My focus is on building practical, data-driven solutions using various ML techniques, including classification, regression, clustering, and anomaly detection.
 
 Through hands-on projects, I aim to deepen my understanding of:
